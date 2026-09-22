@@ -151,7 +151,7 @@ npx expo start -c
 
 ---
 
-## 🧪 5. Usuarios de Prueba y Guía para la Demo Oral
+## 🧪 5. Usuarios de Prueba
 
 La pantalla de inicio de sesión dispone de **botones de acceso rápido con 1 tap** para alternar de forma inmediata entre los diferentes roles definidos en la especificación:
 
